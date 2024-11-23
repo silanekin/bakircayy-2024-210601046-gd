@@ -1,5 +1,6 @@
 # bakircayy-2024-210601046-gd
 youtube link : https://youtu.be/QZxf3p7vZfc
+
 Unity uygulamamı geliştirirken 2022 sürümünü kullanarak yeni bir 3D proje oluşturdum. Sahneye temel bileşenler olarak zemin, ana kamera ve ışıklandırma ekledim. Daha sonra yerleştirme alanını (Placement Area) sahnenin alt kısmında belirledim ve kullanıcıya alanın doluluk durumunu göstermek için renk değişimi gibi görsel efektler ekledim.
 
 Sahneye küp, küre ve zar gibi çeşitli 3D nesneler ekledim. Bu nesnelerin fareyle hareket ettirilebilmesi için fizik motoru (Rigidbody) ve çarpışma algılama sistemi (Collider) ayarlarını yaptım. Ayrıca, bu nesnelere “Draggable” etiketi atayarak sürükleme işlevselliğini tanımladım.
